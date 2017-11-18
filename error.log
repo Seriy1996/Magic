@@ -1,0 +1,16 @@
+[Fri Nov 17 00:47:44.911250 2017] [authz_core:error] [pid 7576:tid 2036] [client 127.0.0.1:61380] AH01630: client denied by server configuration: C:/xampp/www/magic/pablic
+[Fri Nov 17 00:47:49.541352 2017] [authz_core:error] [pid 7576:tid 2036] [client 127.0.0.1:61380] AH01630: client denied by server configuration: C:/xampp/www/magic/
+[Fri Nov 17 00:47:51.639667 2017] [authz_core:error] [pid 7576:tid 2036] [client 127.0.0.1:61380] AH01630: client denied by server configuration: C:/xampp/www/magic/
+[Fri Nov 17 00:47:53.562630 2017] [authz_core:error] [pid 7576:tid 2036] [client 127.0.0.1:61380] AH01630: client denied by server configuration: C:/xampp/www/magic/
+[Fri Nov 17 00:49:24.493525 2017] [authz_core:error] [pid 7576:tid 2036] [client 127.0.0.1:61390] AH01630: client denied by server configuration: C:/xampp/www/magic/
+[Fri Nov 17 00:49:25.269181 2017] [authz_core:error] [pid 7576:tid 2036] [client 127.0.0.1:61390] AH01630: client denied by server configuration: C:/xampp/www/magic/
+[Fri Nov 17 00:49:40.356034 2017] [authz_core:error] [pid 7212:tid 1984] [client ::1:61392] AH01630: client denied by server configuration: C:/xampp/www/magic/
+[Fri Nov 17 00:49:41.051054 2017] [authz_core:error] [pid 7212:tid 1984] [client ::1:61392] AH01630: client denied by server configuration: C:/xampp/www/magic/favicon.ico, referer: http://localhost/
+[Fri Nov 17 00:49:47.500447 2017] [authz_core:error] [pid 7212:tid 1988] [client 127.0.0.1:61398] AH01630: client denied by server configuration: C:/xampp/www/magic/
+[Fri Nov 17 00:49:47.792453 2017] [authz_core:error] [pid 7212:tid 1988] [client 127.0.0.1:61398] AH01630: client denied by server configuration: C:/xampp/www/magic/favicon.ico, referer: http://www.magic.pro/
+[Fri Nov 17 00:50:17.503380 2017] [authz_core:error] [pid 7212:tid 1988] [client 127.0.0.1:61405] AH01630: client denied by server configuration: C:/xampp/www/magic/
+[Fri Nov 17 00:50:17.772390 2017] [authz_core:error] [pid 7212:tid 1988] [client 127.0.0.1:61405] AH01630: client denied by server configuration: C:/xampp/www/magic/favicon.ico, referer: http://www.magic.pro/
+[Fri Nov 17 00:50:53.025350 2017] [authz_core:error] [pid 10320:tid 2036] [client 127.0.0.1:61416] AH01630: client denied by server configuration: C:/xampp/www/magic/
+[Fri Nov 17 00:50:53.312354 2017] [authz_core:error] [pid 10320:tid 2036] [client 127.0.0.1:61416] AH01630: client denied by server configuration: C:/xampp/www/magic/favicon.ico, referer: http://www.magic.pro/
+[Fri Nov 17 00:50:58.749461 2017] [authz_core:error] [pid 10320:tid 2036] [client 127.0.0.1:61419] AH01630: client denied by server configuration: C:/xampp/www/magic/
+[Fri Nov 17 00:50:58.969470 2017] [authz_core:error] [pid 10320:tid 2036] [client 127.0.0.1:61419] AH01630: client denied by server configuration: C:/xampp/www/magic/favicon.ico, referer: http://www.magic.pro/
